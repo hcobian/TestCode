@@ -1,0 +1,6 @@
+﻿WinForms App,
+
+- the program load data from /Resources/Products.json to Grid "Products"
+- the User have to add elements to grid "Cart"
+- the user can remove elements from grid "Cart"
+- With the Button "Receipt" Show a Mesage with the summary of the "purchase" 

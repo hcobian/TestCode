@@ -1,0 +1,65 @@
+[
+  {
+    "sku": "001",
+    "Name": "Book",
+    "Amount": 12.49,
+    "Imported": false,
+    "NoBaseTax": true
+  },
+  {
+    "sku": "002",
+    "Name": "Music CD",
+    "Amount": 14.99,
+    "Imported": false,
+    "NoBaseTax": false
+  },
+  {
+    "sku": "003",
+    "Name": "Chocolate bar",
+    "Amount": 0.85,
+    "Imported": false,
+    "NoBaseTax": true
+  },
+  {
+    "sku": "004",
+    "Name": "Imported box of chocolates",
+    "Amount": 10,
+    "Imported": true,
+    "NoBaseTax": true
+  },
+  {
+    "sku": "005",
+    "Name": "Imported bottle of perfume",
+    "Amount": 47.50,
+    "Imported": true,
+    "NoBaseTax": false
+  },
+  {
+    "sku": "006",
+    "Name": "Imported bottle of perfume",
+    "Amount": 27.99,
+    "Imported": true,
+    "NoBaseTax": false
+  },
+  {
+    "sku": "007",
+    "Name": "bottle of perfume",
+    "Amount": 18.99,
+    "Imported": false,
+    "NoBaseTax": false
+  },
+  {
+    "sku": "008",
+    "Name": "Packet of headache pills",
+    "Amount": 9.75,
+    "Imported": false,
+    "NoBaseTax": true
+  },
+  {
+    "sku": "009",
+    "Name": "Imported box of chocolates",
+    "Amount": 11.25,
+    "Imported": true,
+    "NoBaseTax": true
+  }
+]
